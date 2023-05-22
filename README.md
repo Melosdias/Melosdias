@@ -1,13 +1,10 @@
 # Hello world 💜
 💻 Student at EPITA<br/>
 🇰🇷  Currently studying in Korea<br/>
-☕ Coffee addict
-
-## Don't know what to cook for dinner ?
-[Here's some inspo](https://github.com/Melosdias/whatDoWeEatTonight)
-
-## Need a calculator ?
-[And voilà~](https://github.com/Melosdias/AbacusV2)
+☕ Coffee addict<br/>
+<br/>
+[Don't know what to cook for dinner ?](https://github.com/Melosdias/whatDoWeEatTonight)<br/>
+[Need a calculator ?](https://github.com/Melosdias/AbacusV2)
 
   <!--
 **Melosdias/Melosdias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
