@@ -5,7 +5,6 @@
 ## Need a calculator ?
 [And voilà~](https://github.com/Melosdias/AbacusV2)
 <br/>
-<img src="https://i.pinimg.com/736x/56/2e/0a/562e0aa480536201751446cc69491ddd.jpg" alt="alt text" width="100" height="100">
   <!--
 **Melosdias/Melosdias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
