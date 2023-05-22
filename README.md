@@ -4,7 +4,7 @@
 
 ## Need a calculator ?
 [And voilà~](https://github.com/Melosdias/AbacusV2)
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F721701909031253857%2F&psig=AOvVaw0XHxpflkAeZk2WnOhT6EoL&ust=1684838264603000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMjSqebdiP8CFQAAAAAdAAAAABAE)
+![](https://i.pinimg.com/736x/56/2e/0a/562e0aa480536201751446cc69491ddd.jpg)
   <!--
 **Melosdias/Melosdias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
