@@ -1,6 +1,9 @@
 # Hi there 👋
 ## Don't know what to cook for dinner ?
 [Here's some inspo](https://github.com/Melosdias/whatDoWeEatTonight)
+
+## Need a calculator ?
+[And voilà~](https://github.com/Melosdias/AbacusV2)
 <!--
 **Melosdias/Melosdias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
