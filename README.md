@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hello world 💜
 ## Don't know what to cook for dinner ?
 [Here's some inspo](https://github.com/Melosdias/whatDoWeEatTonight)
 
