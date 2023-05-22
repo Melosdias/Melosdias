@@ -1,5 +1,6 @@
-### Hi there 👋
-
+# Hi there 👋
+## Don't know what to cook for dinner ?
+[Here's some inspo](https://github.com/Melosdias/whatDoWeEatTonight)
 <!--
 **Melosdias/Melosdias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
