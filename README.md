@@ -1,6 +1,6 @@
 # Hello world 💜
 💻 Student at EPITA<br/>
-🇰🇷  Currently studying in Korea<br/>
+🇰🇷  Has studied in South Korea<br/>
 ☕ Coffee addict<br/>
 <br/>
 [Don't know what to cook for dinner ?](https://github.com/Melosdias/whatDoWeEatTonight)<br/>
