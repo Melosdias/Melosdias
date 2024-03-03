@@ -1,4 +1,4 @@
-# Hello world 💜
+# Hello world
 💻 Student at EPITA<br/>
 🇰🇷  Has studied in South Korea<br/>
 ☕ Coffee addict<br/>
